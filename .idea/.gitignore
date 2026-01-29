@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Playwright
+playwright/.cache/
+.playwright/
+.cache/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor junk
+.idea/
+.vscode/
+shelf/
+workspace.xml
+
+# IDE-specific files
+queries/
+dataSources/
+dataSources.local.xml
+httpRequests/
